@@ -7,3 +7,5 @@
 - 😄 Interesting fact: I like to do mentorship for undergraduate students.
 
 > [LinkedIn Profile] (https://www.linkedin.com/in/cristianmm/)
+> [Email](cristianandres.medinamontoya@kedgebs.com)
+

@@ -10,5 +10,5 @@
 
 > [LinkedIn Profile](https://www.linkedin.com/in/cristianmm/)
 
-> [E-mail Address](cristianandres.medinamontoya@kedgebs.com)
+> <a href="cristianandres.medinamontoya@kedgebs.com">cristianandres.medinamontoya@kedgebs.com</a>
 

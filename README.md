@@ -8,5 +8,5 @@
 
 > [LinkedIn Profile] (https://www.linkedin.com/in/cristianmm/)
 
-> [Email](cristianandres.medinamontoya@kedgebs.com)
+> [E-mail Address](cristianandres.medinamontoya@kedgebs.com)
 

@@ -3,6 +3,7 @@
 >## About Me
 - 📕 I did my bachelor's degree in Chemical Engineer at Universidad de Ingeniería y Tecnología (UTEC), Peru | I am currently learning Data Analytics for Business at KEDGE Business School, France.
 - ⚡ I'm passionate about technology, research operations, sustainability, and processes.
-- 💬 I'm always looking for advice and tips to improve
-- 📫 Don't hesitate to contact me: cristianandres.medinamontoya@kedgebs.com
+- 💬 I'm always looking for advice and tips to improve.
 - 😄 Interesting fact: I like to do mentorship for undergraduate students.
+
+> [LinkedIn Profile] (https://www.linkedin.com/in/cristianmm/)

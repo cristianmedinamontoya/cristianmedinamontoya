@@ -6,7 +6,7 @@
 - 💬 I'm always looking for advice and tips to improve.
 - 😄 Interesting fact: I like to do mentorship for undergraduate students.
 
-> [LinkedIn Profile] (https://www.linkedin.com/in/cristianmm/)
+> [LinkedIn Profile](https://www.linkedin.com/in/cristianmm/)
 
 > [E-mail Address](cristianandres.medinamontoya@kedgebs.com)
 
